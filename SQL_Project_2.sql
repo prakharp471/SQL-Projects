@@ -1,8 +1,7 @@
 
 -- ---------------------------------------------
--- SIT772 Assignment 5.1P SQL Script
 -- Author: Prakhar Pandey
--- Description: Basic SQL DDL and DML with SELECT Queries
+-- Description: SQL DDL and DML with SELECT Queries
 -- ---------------------------------------------
 
 -- DROP TABLES IF THEY EXIST
