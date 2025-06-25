@@ -1,6 +1,6 @@
 
 -- ---------------------------------------------
--- Description: Basic SQL DDL and DML with SELECT Queries
+-- Description: SQL DDL and DML
 -- ---------------------------------------------
 
 -- DROP TABLES IF THEY EXIST
