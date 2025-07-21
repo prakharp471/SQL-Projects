@@ -13,7 +13,7 @@ A collection of real-world SQL projects covering data cleaning, joins, subquerie
 
 **SQL_Project_6 (index.html and insert.php):** A complete end-to-end web application workflow using HTML, PHP, and MySQL, built and tested locally with XAMPP. It features a simple yet functional customer input form (index.html) that collects user details such as first name, last name, email, and phone number. Upon submission, the data is securely sent to a PHP backend (insert.php), which establishes a connection to a MySQL database and executes an INSERT query to store the information in a customer table. The project demonstrates practical skills in client-server communication, form handling, SQL integration, and local hosting. It effectively simulates how modern web applications interact with relational databases and can be extended to include additional CRUD operations or front-end enhancements.
 
-**SQL_Project_7:**
+**SQL_Project_7 - Credit Card Transaction Analysis Using SQL:** This SQL project focuses on analysing credit card transaction data to uncover valuable business insights such as high-value customers, peak spending trends, and category-level revenue drivers. Using a range of SQL techniques—including joins, aggregations, filtering, and CTEs—the analysis answers practical business questions that support customer segmentation and marketing strategy. The project demonstrates how raw transactional data can be transformed into actionable intelligence using SQL alone.
 
 **SQL_Project_8:**
 
