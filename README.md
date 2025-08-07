@@ -15,7 +15,7 @@ A collection of real-world SQL projects covering data cleaning, joins, subquerie
 
 **SQL_Project_7 - Credit Card Transaction Analysis Using SQL:** This SQL project focuses on analysing credit card transaction data to uncover valuable business insights such as high-value customers, peak spending trends, and category-level revenue drivers. Using a range of SQL techniques—including joins, aggregations, filtering, and CTEs—the analysis answers practical business questions that support customer segmentation and marketing strategy. The project demonstrates how raw transactional data can be transformed into actionable intelligence using SQL alone.
 
-**SQL_Project_8:**
+**SQL_Project_8:** This SQL project explores a historical Olympic dataset to uncover performance patterns across athletes, countries, and events. Using advanced SQL techniques such as Common Table Expressions (CTEs), window functions (RANK(), LAG(), LEAD()), aggregation, and filtering, the analysis answers key business-style questions, including which team has won the most gold medals, which athletes have achieved multi-medal success in a single Olympics, and when India first won each type of medal. Additional insights highlight top-performing players across multiple Olympics, medal wins across Summer and Winter Games, and medal consistency in specific events. The project demonstrates how structured SQL queries can be used not just for reporting, but for extracting meaningful insights that simulate real-world analytics scenarios.
 
 
 
